@@ -2,18 +2,17 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This is coding test as part of attenvo recruitment steps
-
-This project is built with laravel version 9.0
+This is coding test as part of attenvo recruitment steps, this project is built with laravel version 9.0 and Vuesj version 3, it uses the api provided by [attenvo](https://reqres.in/), to display list of users.
 
 ### Technology Stack
 
-* PHP 8.1
-* Laravel 9.0  
-* Vuesj 3
+* PHP v8.1
+* Laravel v9.22.1  
+* Vuesj v3
 * npm
 * composer
 * mysql
+* cache
 
 ## How to run this project
 
