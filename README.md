@@ -18,3 +18,19 @@ This project is built with laravel version 9.0
     git clone git@github.com:OfficialOzioma/attenvo_test.git
 
  ```
+
+* Change directory to the cloned project
+
+    ```sh
+        cd attenvo_test
+    ```
+
+* Run the following command to install dependencies
+  
+    ```sh
+        composer install
+    ```
+
+    ```sh
+        npm install
+    ```
