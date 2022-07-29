@@ -1,6 +1,6 @@
 # ATTENVO TEST
 
-This is coding test as part of attenvo recruitment steps, this project is built with laravel version 9.0 and Vuesj version 3, it uses the api provided by [attenvo](https://reqres.in/), to display list of users.
+This is coding test as part of attenvo recruitment steps, this project is built with laravel version 9.0 and Vuesj version 3, it uses the api provided by [Reqres](https://reqres.in/), to display list of users.
 
 ### Technology Stack
 
