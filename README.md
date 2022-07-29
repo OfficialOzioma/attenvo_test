@@ -1,7 +1,5 @@
 # ATTENVO TEST
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 This is coding test as part of attenvo recruitment steps, this project is built with laravel version 9.0 and Vuesj version 3, it uses the api provided by [attenvo](https://reqres.in/), to display list of users.
 
 ### Technology Stack
@@ -43,6 +41,10 @@ This is coding test as part of attenvo recruitment steps, this project is built 
 
     ```sh
         npm install
+    ```
+
+    ```sh
+        npm run build
     ```
 
 * Set up your database credentials in the .env file
