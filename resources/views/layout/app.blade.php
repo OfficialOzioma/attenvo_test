@@ -8,7 +8,8 @@
     <title>ATTENVO TEST</title>
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
     {{-- <link href="{{ mix('css/app.css') }}" type="text/css" rel="stylesheet" /> --}}
-    @vite('resources/css/app.css')
+    {{-- @vite('resources/css/app.css') --}}
+    {{ vite_assets() }}
 
     <style>
         .bg-light {
@@ -19,7 +20,7 @@
 
 <body>
     <div id="app"></div>
-    @vite('resources/js/app.js')
+    {{-- @vite('resources/js/app.js') --}}
     {{-- <script src="{{ mix('js/app.js') }}" type="text/javascript"></script> --}}
 </body>
 
