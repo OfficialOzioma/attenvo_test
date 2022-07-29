@@ -76,7 +76,7 @@ This is coding test as part of attenvo recruitment steps, this project is built 
         php artisan serve
     ```
 
-visit <http://localhost:8080> on your browser to login
+visit <http://localhost:8000> on your browser to login
 
 #### How to run the tests
 
